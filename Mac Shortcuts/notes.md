@@ -1,6 +1,6 @@
-**MAC Shortcuts**
+<h1> MAC Shortcuts </h1>
 
-Keyboard Shortcuts for texts: 
+**Keyboard Shortcuts for texts:**
 1. Copy - cmd + C 
 2. Paste - cmd  + V 
 3. Cut - cmd + X
@@ -16,7 +16,7 @@ Keyboard Shortcuts for texts:
 13. Staring of the line - cmd + arrow key 
 
 <br> </br> 
-Keyboard shortcuts for navigation: 
+**Keyboard shortcuts for navigation:**
 1. 3 fingers up - see all tabs 
 2. Cmd + Tab 
 3. Quit the program: cmd + Q 
@@ -29,7 +29,7 @@ Keyboard shortcuts for navigation:
 10. Just before releasing the mouse, keep the control pressed - It will not save the screenshot on desktop but rather copy it on clipboard
 
 <br> </br> 
-Chrome:
+**Chrome:**
 1. Cmd + option + arrow key - navigate tabs 
 2. Cmd + 2 - Second tab 
 3. Cmd + T - New Tab 
@@ -40,5 +40,5 @@ Chrome:
 8. Cmd + H - Hides chrome 
 
 <br> </br> 
-Finder: 
+**Finder:**
 1. Cmd + delete - permanently delete
