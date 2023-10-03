@@ -7,7 +7,7 @@
 4. Undo - cmd + Z
 5. Redo - cmd + Y and cmd + shift + z (other apps from google)
 6. Save - cmd + S
-7. Open - cmd + F
+7. Open - cmd + O
 8. Select all - cmd + A 
 9. Select word by word - option + shift + arrow keys 
 10. Delete entire line - cmd + delete 
