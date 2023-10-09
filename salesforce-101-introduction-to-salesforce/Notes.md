@@ -14,7 +14,7 @@ Course: https://keysight.udemy.com/course/salesforce-101-introduction-to-salesfo
 <br> </br>
 **Salesforce capability matrix:**
 - Abstraction level: 0,1 and 2
-- Marketting cloud and prodot 
+- Marketting cloud and pardot 
 - Highlight all services you use 
 - Highlight all services you have purchased but not used 
 - Go to level 2 and highlight the same things 
@@ -52,5 +52,5 @@ Some applications are the part of the core platform and some are used via API’
 - Technical Architect - more bigger than solution architect 
 
 
-*Popular:Y Sales cloud, Chatter, Force.com , Service Cloud, Salesforce lightning
+*Popular:* Sales cloud, Chatter, Force.com , Service Cloud, Salesforce lightning
 
