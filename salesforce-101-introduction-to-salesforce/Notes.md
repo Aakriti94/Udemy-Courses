@@ -52,5 +52,4 @@ Some applications are the part of the core platform and some are used via API’
 - Technical Architect - more bigger than solution architect 
 
 
-*Popular:* Sales cloud, Chatter, Force.com , Service Cloud, Salesforce lightning
-
+*Popular:* Sales cloud, Chatter, Force.com , Service Cloud, Salesforce lightning 

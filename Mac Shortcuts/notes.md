@@ -42,3 +42,7 @@
 <br> </br> 
 **Finder:**
 1. Cmd + delete - permanently delete
+
+**Kill a Process from terminal -** 
+1. Force Quit: Command + optipon + esc 
+2. `killall [application name]` 
