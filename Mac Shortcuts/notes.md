@@ -12,7 +12,7 @@
 9. Select word by word - option + shift + arrow keys 
 10. Delete entire line - cmd + delete 
 11. Delete word by word - option + backspace 
-12. Delete to the right of the cursor - fn + delete 
+12. Delete to the right of the cursor - option + delete 
 13. Staring of the line - cmd + arrow key 
 
 <br> </br> 
@@ -43,6 +43,7 @@
 **Finder:**
 1. Cmd + delete - permanently delete
 
-**Kill a Process from terminal -** 
+<br> </br> 
+**Kill a Process from terminal** 
 1. Force Quit: Command + optipon + esc 
 2. `killall [application name]` 
