@@ -18,32 +18,34 @@
 <br> </br> 
 **Keyboard shortcuts for navigation:**
 1. 3 fingers up - see all tabs 
-2. Cmd + Tab 
-3. Quit the program: cmd + Q 
-4. Minimize: cmd + M 
-5. Cmd + N - open a new document 
-6. Cmd + W - close a new document 
-7. Cmd + down arrow - move down paragraph by paragraph 
-8. Cmd + up arrow - move up paragraph by paragraph 
-9. Cmd + shift + 4 - takes a screenshot 
-10. Just before releasing the mouse, keep the control pressed - It will not save the screenshot on desktop but rather copy it on clipboard
+2. `cmd + Tab` 
+3. Quit the program: `cmd + Q` 
+4. Minimize: `cmd + M` 
+5. `cmd + N` - open a new document 
+6. `cmd + W` - close a new document 
+7. `cmd + down arrow` - move down paragraph by paragraph 
+8. `cmd + up arrow` - move up paragraph by paragraph 
+9. `cmd + shift + 4` - takes a screenshot - By selecting the area
+10. `cmd + shift + 3` - takes a screenshot - Entire Screen
+11. `cmd + shift + 5` - takes a screenshot - in rectangular portion
+12. Just before releasing the mouse, keep the control pressed - It will not save the screenshot on desktop but rather copy it on clipboard
 
 <br> </br> 
 **Chrome:**
-1. Cmd + option + arrow key - navigate tabs 
-2. Cmd + 2 - Second tab 
-3. Cmd + T - New Tab 
-4. Cmd + W - Exit the Tab 
-5. Cmd + shift + N - Ingnonito mode 
-6. Cmd + ` - Toggle between normal chrome and incognito chrome 
-7. Cmd + L - selects the URL address 
-8. Cmd + H - Hides chrome 
+1. `cmd + option + arrow key` - navigate tabs 
+2. `cmd + 2` - Second tab 
+3. `cmd + T` - New Tab 
+4. `cmd + W` - Exit the Tab 
+5. `cmd + shift + N` - Ingnonito mode 
+6. cmd + ` - Toggle between normal chrome and incognito chrome 
+7. `cmd + L` - selects the URL address 
+8. `cmd + H` - Hides chrome 
 
 <br> </br> 
 **Finder:**
-1. Cmd + delete - permanently delete
+1. `cmd + delete` - permanently delete
 
 <br> </br> 
 **Kill a Process from terminal** 
-1. Force Quit: Command + optipon + esc 
+1. Force Quit: `command + optipon + esc` 
 2. `killall [application name]` 
