@@ -1,19 +1,19 @@
 <h1> MAC Shortcuts </h1>
 
 **Keyboard Shortcuts for texts:**
-1. Copy - cmd + C 
-2. Paste - cmd  + V 
-3. Cut - cmd + X
-4. Undo - cmd + Z
-5. Redo - cmd + Y and cmd + shift + z (other apps from google)
-6. Save - cmd + S
-7. Open - cmd + O
-8. Select all - cmd + A 
-9. Select word by word - option + shift + arrow keys 
-10. Delete entire line - cmd + delete 
-11. Delete word by word - option + backspace 
-12. Delete to the right of the cursor - option + delete 
-13. Staring of the line - cmd + arrow key 
+1. Copy - `cmd + C` 
+2. Paste - `cmd  + V` 
+3. Cut - `cmd + X`
+4. Undo - `cmd + Z`
+5. Redo - `cmd + Y` and `cmd + shift + z` (other apps from google)
+6. Save - `cmd + S`
+7. Open - `cmd + O`
+8. Select all - `cmd + A` 
+9. Select word by word - `option + shift + arrow keys` 
+10. Delete entire line - `cmd + delete`
+11. Delete word by word - `option + backspace`
+12. Delete to the right of the cursor - `option + delete`
+13. Staring of the line - `cmd + arrow key` 
 
 <br> </br> 
 **Keyboard shortcuts for navigation:**
